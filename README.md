@@ -1,16 +1,22 @@
-# 💖 Sponsor & Donate
+# 💖 赞助我 / Sponsor Me
 
-Thanks for checking this out!  
-If you find my open source work useful, you can sponsor me here.
+感谢你的关注与支持！
 
-## WeChat Pay / Alipay
+## 扫码赞助
 
 <img src="images/收款码.jpg" alt="收款码" height="260">
 
+**说明：** 同一张收款码，支持微信支付或支付宝。
+
 ---
 
-## Note
+## 关于赞助
 
-- This page links directly to my payment QR code
-- No extra services or products involved
-- Support is optional and appreciated
+- 所有赞助均为自愿行为
+- 款项将用于继续支持我的开源项目与创作
+- 本项目不涉及任何商业交易或服务承诺
+- 如有问题欢迎在此仓库提 Issue
+
+---
+
+Made with ❤️ by [VirgoLeo1](https://github.com/VirgoLeo1)
